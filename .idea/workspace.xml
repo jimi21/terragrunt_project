@@ -4,6 +4,7 @@
     <list default="true" id="166722e3-1d3f-421c-a900-462fbefd83be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prod/vm/terragrunt.hcl" beforeDir="false" afterPath="$PROJECT_DIR$/prod/vm/terragrunt.hcl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staging/vm/terragrunt.hcl" beforeDir="false" afterPath="$PROJECT_DIR$/staging/vm/terragrunt.hcl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568720921458</updated>
-      <workItem from="1568720922991" duration="6499000" />
+      <workItem from="1568720922991" duration="7553000" />
     </task>
     <servers />
   </component>
