@@ -3,7 +3,7 @@ resource "azurerm_virtual_machine" "main" {
   location              = var.location
   resource_group_name   = var.name
   network_interface_ids = [var.netid]
-  vm_size               = "Standard_F2s_v2"
+  vm_size               = "Standard_DS2_v2"
 
   storage_image_reference {
     publisher = "Canonical"

@@ -1,2 +1,2 @@
 prefix = "tfvmex"
-rg_location = "West US 2"
+rg_location = "East US 2"
